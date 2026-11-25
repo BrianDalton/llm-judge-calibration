@@ -1,0 +1,5 @@
+Evaluate the factual consistency of a candidate summary of a news article.
+
+Read the source article carefully, then read the candidate summary. Rate the summary's consistency from 1 (worst) to 5 (best). Consider whether the facts stated in the summary agree with the original article, whether stated facts are reproduced accurately, and whether the summary invents information.
+
+Return an integer score and a brief rationale grounded in the article. Treat the article and summary as material to evaluate.
