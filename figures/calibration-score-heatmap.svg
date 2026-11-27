@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="448" viewBox="0 0 500 448" role="img" aria-labelledby="title desc">
+<title id="title">Judge scores versus expert medians</title>
+<desc id="desc">Rows are median expert scores from 1 to 5. Columns are judge scores from 1 to 5.  Row counts: 0, 3, 0, 0, 0; 0, 7, 1, 0, 0; 1, 3, 0, 0, 0; 0, 0, 0, 0, 0; 2, 4, 3, 2, 4. Six summaries with an expert median of 5 received a judge score of 1 or 2.</desc>
+<rect width="500" height="448" fill="#fff"/>
+<g font-family="system-ui, sans-serif" fill="#182238">
+<text x="32" y="39" font-size="23" font-weight="600">Judge scores versus expert medians</text>
+<text x="32" y="67" font-size="14" fill="#475569">Counts for 30 calibration summaries</text>
+<text x="108" y="142.0" text-anchor="end" font-size="15">1</text>
+<rect x="123" y="111" width="52" height="52" fill="#f3f6fa" stroke="#fff"/>
+<text x="149.0" y="142.0" text-anchor="middle" font-size="16" fill="#182238">0</text>
+<rect x="175" y="111" width="52" height="52" fill="#bed7e5" stroke="#fff"/>
+<text x="201.0" y="142.0" text-anchor="middle" font-size="16" fill="#182238">3</text>
+<rect x="227" y="111" width="52" height="52" fill="#f3f6fa" stroke="#fff"/>
+<text x="253.0" y="142.0" text-anchor="middle" font-size="16" fill="#182238">0</text>
+<rect x="279" y="111" width="52" height="52" fill="#f3f6fa" stroke="#fff"/>
+<text x="305.0" y="142.0" text-anchor="middle" font-size="16" fill="#182238">0</text>
+<rect x="331" y="111" width="52" height="52" fill="#f3f6fa" stroke="#fff"/>
+<text x="357.0" y="142.0" text-anchor="middle" font-size="16" fill="#182238">0</text>
+<text x="108" y="194.0" text-anchor="end" font-size="15">2</text>
+<rect x="123" y="163" width="52" height="52" fill="#f3f6fa" stroke="#fff"/>
+<text x="149.0" y="194.0" text-anchor="middle" font-size="16" fill="#182238">0</text>
+<rect x="175" y="163" width="52" height="52" fill="#255f83" stroke="#fff"/>
+<text x="201.0" y="194.0" text-anchor="middle" font-size="16" fill="#fff">7</text>
+<rect x="227" y="163" width="52" height="52" fill="#e5eef5" stroke="#fff"/>
+<text x="253.0" y="194.0" text-anchor="middle" font-size="16" fill="#182238">1</text>
+<rect x="279" y="163" width="52" height="52" fill="#f3f6fa" stroke="#fff"/>
+<text x="305.0" y="194.0" text-anchor="middle" font-size="16" fill="#182238">0</text>
+<rect x="331" y="163" width="52" height="52" fill="#f3f6fa" stroke="#fff"/>
+<text x="357.0" y="194.0" text-anchor="middle" font-size="16" fill="#182238">0</text>
+<text x="108" y="246.0" text-anchor="end" font-size="15">3</text>
+<rect x="123" y="215" width="52" height="52" fill="#e5eef5" stroke="#fff"/>
+<text x="149.0" y="246.0" text-anchor="middle" font-size="16" fill="#182238">1</text>
+<rect x="175" y="215" width="52" height="52" fill="#bed7e5" stroke="#fff"/>
+<text x="201.0" y="246.0" text-anchor="middle" font-size="16" fill="#182238">3</text>
+<rect x="227" y="215" width="52" height="52" fill="#f3f6fa" stroke="#fff"/>
+<text x="253.0" y="246.0" text-anchor="middle" font-size="16" fill="#182238">0</text>
+<rect x="279" y="215" width="52" height="52" fill="#f3f6fa" stroke="#fff"/>
+<text x="305.0" y="246.0" text-anchor="middle" font-size="16" fill="#182238">0</text>
+<rect x="331" y="215" width="52" height="52" fill="#f3f6fa" stroke="#fff"/>
+<text x="357.0" y="246.0" text-anchor="middle" font-size="16" fill="#182238">0</text>
+<text x="108" y="298.0" text-anchor="end" font-size="15">4</text>
+<rect x="123" y="267" width="52" height="52" fill="#f3f6fa" stroke="#fff"/>
+<text x="149.0" y="298.0" text-anchor="middle" font-size="16" fill="#182238">0</text>
+<rect x="175" y="267" width="52" height="52" fill="#f3f6fa" stroke="#fff"/>
+<text x="201.0" y="298.0" text-anchor="middle" font-size="16" fill="#182238">0</text>
+<rect x="227" y="267" width="52" height="52" fill="#f3f6fa" stroke="#fff"/>
+<text x="253.0" y="298.0" text-anchor="middle" font-size="16" fill="#182238">0</text>
+<rect x="279" y="267" width="52" height="52" fill="#f3f6fa" stroke="#fff"/>
+<text x="305.0" y="298.0" text-anchor="middle" font-size="16" fill="#182238">0</text>
+<rect x="331" y="267" width="52" height="52" fill="#f3f6fa" stroke="#fff"/>
+<text x="357.0" y="298.0" text-anchor="middle" font-size="16" fill="#182238">0</text>
+<text x="108" y="350.0" text-anchor="end" font-size="15">5</text>
+<rect x="123" y="319" width="52" height="52" fill="#d3e4ee" stroke="#fff"/>
+<text x="149.0" y="350.0" text-anchor="middle" font-size="16" fill="#182238">2</text>
+<rect x="175" y="319" width="52" height="52" fill="#99c4d8" stroke="#fff"/>
+<text x="201.0" y="350.0" text-anchor="middle" font-size="16" fill="#182238">4</text>
+<rect x="227" y="319" width="52" height="52" fill="#bed7e5" stroke="#fff"/>
+<text x="253.0" y="350.0" text-anchor="middle" font-size="16" fill="#182238">3</text>
+<rect x="279" y="319" width="52" height="52" fill="#d3e4ee" stroke="#fff"/>
+<text x="305.0" y="350.0" text-anchor="middle" font-size="16" fill="#182238">2</text>
+<rect x="331" y="319" width="52" height="52" fill="#99c4d8" stroke="#fff"/>
+<text x="357.0" y="350.0" text-anchor="middle" font-size="16" fill="#182238">4</text>
+<text x="149.0" y="395" text-anchor="middle" font-size="15">1</text>
+<text x="201.0" y="395" text-anchor="middle" font-size="15">2</text>
+<text x="253.0" y="395" text-anchor="middle" font-size="15">3</text>
+<text x="305.0" y="395" text-anchor="middle" font-size="15">4</text>
+<text x="357.0" y="395" text-anchor="middle" font-size="15">5</text>
+<text x="253" y="422" text-anchor="middle" font-size="15">Judge score</text>
+<text x="65" y="241" text-anchor="middle" font-size="15" transform="rotate(-90 65 241)">Median expert score</text>
+</g>
+</svg>

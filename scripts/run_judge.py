@@ -13,7 +13,7 @@ from models.judge_prediction import JudgePrediction
 from scripts.judge_data import read_benchmark, read_sources
 
 
-def judge_article(client, args, prompt, article, summary):
+def judge_article(client, args, prompt, article, summary, *, disable_prompt_cache=False):
     """Send only the rubric and two texts. Benchmark metadata stays local."""
     response = client.responses.parse(
         model=args.judge_model,
@@ -27,6 +27,8 @@ def judge_article(client, args, prompt, article, summary):
         reasoning={"effort": args.reasoning_effort},
         max_output_tokens=args.max_output_tokens,
         store=False,
+        # Explicit-only mode with no breakpoints disables prompt caching.
+        extra_body={"prompt_cache_options": {"mode": "explicit"}} if disable_prompt_cache else None,
     )
     if response.status != "completed" or response.output_parsed is None or response.usage is None:
         raise ValueError(f"Response {response.id} returned no complete score (status={response.status})")
