@@ -36,12 +36,12 @@ On the 30-item calibration set, the automated judge achieved a mean absolute err
 
 | Calibration metric | Result | 95% bootstrap interval |
 | --- | ---: | ---: |
-| Mean absolute error (MAE, rubric points) | 1.233 | 0.833 to 1.667 |
-| Quadratic weighted Cohen’s kappa | 0.340 | 0.139 to 0.578 |
+| Mean absolute error (MAE, rubric points) | 1.23 | 0.83 to 1.67 |
+| Quadratic weighted Cohen’s kappa | 0.340 | 0.14 to 0.58 |
 | Exact match | 11 of 30 (36.7%) | |
 | Off by one point | 9 of 30 (30.0%) | |
 | Off by two or more points | 10 of 30 (33.3%) | |
-| Mean signed gap (judge minus expert median) | −0.967 | |
+| Mean signed gap (judge minus expert median) | −0.97 | |
 
 The judge tended to score lower than the experts. Overall the judge had a mean signed gap of −0.967 compared to the median expert score. Most notably, the judge scored lower than the median expert score on all 10 of the summaries where the difference was two or more points. This score deflation is apparent in the score distributions and confusion matrix below. While the expert medians were skewed toward the top of the scale (with 15 out of 30 summaries rated 5), the judge scores were concentrated much lower in the scale, with a score of 2 on over half (17 of 30) of the calibration summaries.
 
